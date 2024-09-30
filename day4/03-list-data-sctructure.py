@@ -9,6 +9,7 @@ states_of_brazil = ["Acre", "Alagoas", "Amapa", "Amazonas", "Bahia",
 
 states_of_brazil[1] = "Alagoias"
 states_of_brazil.append("Monzarlandia")
+states_of_brazil.append(["Monzarlandia", "Joc Land"])
 states_of_brazil.extend(["Monzarlandia", "Joc Land"])
 print(states_of_brazil)
 print(states_of_brazil[0])
